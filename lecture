@@ -1,0 +1,10 @@
+-- body tag under add script js file
+-- document console shows html file
+-- document.body will show body of a html file
+-- document.getElementByTagName('') will give all tags by same name
+-- li.innerText will give text of a tag
+
+--- specific one element getElementById
+--- specific multiple element getElementsByClassName
+
+------querySelectorAll('#/.')
